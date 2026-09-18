@@ -41,7 +41,7 @@ const ADMIN_PASSWORD = 'DEIN_PASSWORT';           // beliebig
 ## Teil B – Frontend (React App)
 
 ### 1. Voraussetzungen
-- [Node.js](https://nodejs.org) installiert (v18+)
+- [Node.js](https://nodejs.org) installiert (v22.12+)
 
 ### 2. Projekt einrichten
 ```bash
