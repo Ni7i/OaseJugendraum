@@ -1,2 +1,8 @@
 node_modules/
 dist/
+
+# local secrets
+.env
+.env.*
+!.env.example
+.DS_Store
