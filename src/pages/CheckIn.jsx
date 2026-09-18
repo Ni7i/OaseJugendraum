@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router';
 import { apiCheckin } from '../lib/api.js';
 import { Alert, Btn, Field, PageCenter, PageHeader } from '../components/ui.jsx';
 

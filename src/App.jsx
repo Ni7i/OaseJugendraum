@@ -1,4 +1,4 @@
-import { Routes, Route, Navigate } from 'react-router-dom';
+import { Routes, Route, Navigate } from 'react-router';
 import CheckIn  from './pages/CheckIn.jsx';
 import Register from './pages/Register.jsx';
 import QRCode from './pages/QRCode.jsx';
